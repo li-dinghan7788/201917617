@@ -269,7 +269,9 @@ span#change {
 
 /*一言*/
 .col.hitokotos {
-    margin-right: 10cm;
+    
+    margin-right: 0.75rem;
+    margin-top: 0.25rem;
 }
 
 .hitokoto {
@@ -500,7 +502,7 @@ input[type=range]::-webkit-slider-thumb {
 
 /*时间卡片*/
 .col.times {
-    margin-left: 20cm;
+    margin-left: 0.75rem;
 }
 
 .time {
